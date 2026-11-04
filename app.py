@@ -3,5 +3,6 @@ def greet(name):
 
 print("Hello, Git!")
 greet("홍길동")
-#7강 주석
 
+def logout(user):
+    print(f"{user}logged out")
