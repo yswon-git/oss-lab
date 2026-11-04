@@ -5,3 +5,4 @@ Python 3.10 이상 (3.12 권장)
 
 ##소개
 git 수업용 연습 저장소
+MIT lICENCE
